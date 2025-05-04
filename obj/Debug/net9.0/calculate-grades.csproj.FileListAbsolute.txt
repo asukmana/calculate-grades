@@ -1,0 +1,15 @@
+E:\Users\Arief\Coding\c sharp\calculate-grades\bin\Debug\net9.0\calculate-grades.exe
+E:\Users\Arief\Coding\c sharp\calculate-grades\bin\Debug\net9.0\calculate-grades.deps.json
+E:\Users\Arief\Coding\c sharp\calculate-grades\bin\Debug\net9.0\calculate-grades.runtimeconfig.json
+E:\Users\Arief\Coding\c sharp\calculate-grades\bin\Debug\net9.0\calculate-grades.dll
+E:\Users\Arief\Coding\c sharp\calculate-grades\bin\Debug\net9.0\calculate-grades.pdb
+E:\Users\Arief\Coding\c sharp\calculate-grades\obj\Debug\net9.0\calculate-grades.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\Arief\Coding\c sharp\calculate-grades\obj\Debug\net9.0\calculate-grades.AssemblyInfoInputs.cache
+E:\Users\Arief\Coding\c sharp\calculate-grades\obj\Debug\net9.0\calculate-grades.AssemblyInfo.cs
+E:\Users\Arief\Coding\c sharp\calculate-grades\obj\Debug\net9.0\calculate-grades.csproj.CoreCompileInputs.cache
+E:\Users\Arief\Coding\c sharp\calculate-grades\obj\Debug\net9.0\calculate-grades.sourcelink.json
+E:\Users\Arief\Coding\c sharp\calculate-grades\obj\Debug\net9.0\calculate-grades.dll
+E:\Users\Arief\Coding\c sharp\calculate-grades\obj\Debug\net9.0\refint\calculate-grades.dll
+E:\Users\Arief\Coding\c sharp\calculate-grades\obj\Debug\net9.0\calculate-grades.pdb
+E:\Users\Arief\Coding\c sharp\calculate-grades\obj\Debug\net9.0\calculate-grades.genruntimeconfig.cache
+E:\Users\Arief\Coding\c sharp\calculate-grades\obj\Debug\net9.0\ref\calculate-grades.dll
